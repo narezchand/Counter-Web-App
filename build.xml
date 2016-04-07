@@ -1,0 +1,11 @@
+<project name= "My first Build file" default="target 1">
+
+	<target name="target 1">
+
+       <copy file = "pom.xml" tofile = "C:\Tools\Web App\one\pom1.xml" />
+
+
+   </target>
+
+
+</project>
